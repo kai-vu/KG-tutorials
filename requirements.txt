@@ -5,6 +5,6 @@ rdflib==7.0.0
 owlready2==0.45
 matplotlib==3.8.2
 seaborn==0.13.1
-pykeen==1.10.1
 owlrl==6.0.2
-torch==2.1.2
+torch==2.7.0
+kglib
